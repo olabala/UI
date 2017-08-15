@@ -8,12 +8,6 @@ $(document).ready(function(){
       tagData: ["juliett", "kilo"]
     });
 
-	// Editable
-	// $('.editable').editable();
-
-	// Wizard
-	$('#rootwizard').bootstrapWizard();
-
     // Mask
     if ($('[data-mask]')
         .length) {
